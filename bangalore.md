@@ -1,6 +1,6 @@
 # 🚀 Bangalore Tech Companies - Job Search Resource
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bangalore_railway_station.jpg" alt="bangalore" width="200" height="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Bangalore_railway_station.jpg" alt="bangalore" width="300" height="300"/>
 
 > A curated list of technology companies in Bangalore, India. Feel free to contribute by creating a pull request! 🌟
 
